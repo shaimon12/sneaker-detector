@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# Model and data files
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# ROS2 logs/build
+build/
+install/
+log/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Dataset folders (if excluded)
+Robot_images/
+robot_dataset/

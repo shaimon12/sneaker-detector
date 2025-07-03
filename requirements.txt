@@ -1,0 +1,14 @@
+torch>=1.9
+torchvision
+tensorflow
+keras
+opencv-python
+matplotlib
+numpy
+scikit-learn
+seaborn
+pandas
+rospy
+rclpy
+sensor-msgs
+std-msgs
