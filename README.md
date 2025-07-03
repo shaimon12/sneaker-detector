@@ -119,3 +119,9 @@ Master of Information Technology in Artificial Intelligence
 Macquarie University, Australia
 
 Acknowledgment: A dataset containing 500 images (25 each for 20 of the 21 classes) was contributed by another group during Phase 3. This was used solely to enhance training diversity. The full project — from design and modeling to robot deployment and reporting — was independently completed by Shaimon Rahman.
+
+---
+License
+-------
+
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
